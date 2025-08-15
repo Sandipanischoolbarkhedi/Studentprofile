@@ -1,2 +1,2 @@
-# Studentprofile
+# Schoolprofile
 Know more about atharv 
